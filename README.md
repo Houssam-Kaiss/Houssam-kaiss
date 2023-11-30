@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Houssam Kaiss</h1>
 <h3 align="center">A passionate software developer who loves automating things, building robust solutions, and exploring the fascinating world of machine learning. Welcome to my GitHub profile!</h3>
 
+### Statistics
+
+<!-- rank_icon=percentile -->
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=Houssam-Kaiss&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=Houssam-Kaiss&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+
 
 ## 💬 Ask me about
 
